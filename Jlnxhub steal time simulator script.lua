@@ -1,2 +1,2 @@
-made by: Jlnxhub its free have fun! 👇 discord: https://discord.gg/Zne7UnTTz
+made by: Jlnxhub its free have fun! 👇
 loadstring(game:HttpGet("https://pastebin.com/raw/efsSeRFb"))()
